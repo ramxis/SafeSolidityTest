@@ -1,5 +1,5 @@
-[![Tests](https://github.com/ramxis/SafeSolidityTest/actions/workflows/test.yml/badge.svg)](https://github.com/DGCBlockchain/SmartContracts/actions/workflows/test.yml)
-[![Lint](https://github.com/ramxis/SafeSolidityTest/actions/workflows/lint.yml/badge.svg)](https://github.com/DGCBlockchain/SmartContracts/actions/workflows/lint.yml)
+[![Tests](https://github.com/ramxis/SafeSolidityTest/actions/workflows/test.yml/badge.svg)](https://github.com/ramxis/SafeSolidityTest/actions/workflows/test.yml)
+[![Lint](https://github.com/ramxis/SafeSolidityTest/actions/workflows/lint.yml/badge.svg)](https://github.com/ramxis/SafeSolidityTest/actions/workflows/lint.yml)
 
 # SampleSafeModule
 
