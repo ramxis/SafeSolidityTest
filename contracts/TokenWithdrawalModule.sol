@@ -26,7 +26,7 @@ contract TokenWithdrawalModule {
         token = UnicornToken(_token);
     }
 
-    /// @dev Function that allows owner of Gnosis safe to generate a signature for a withdrawal of a certain number of tokens
+    /// @dev Function that allows user to withdraw Unicorn tokens from the safe by presenting valid message signed by the safe owners
     /// @param amount amount of tokens to withdraw.
     /// @param recipient Address that should receive the tokens
     /// @param signature owner signature allowing @param recipient to withdraw tokens
