@@ -102,3 +102,20 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Hardhat config
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# vscode files
+.vscode
+
+# ignore the task pdf
+Solidity Tech Task.pdf
